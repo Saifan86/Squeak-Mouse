@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot from 2026-06-06 22-47-19" src="https://github.com/user-attachments/assets/f3920012-dd1f-41ca-9814-7ae63900d4e5" />
 # My Custom Squeak MouseA custom mouse shell designed in OnShape for Hack Club Stasis.
 
 #About
